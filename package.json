@@ -1,0 +1,27 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "blog back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blogbywd/back-end.git"
+  },
+  "keywords": [
+    "back-end",
+    "node",
+    "nginx",
+    "redis",
+    "mysql",
+    "mongodb"
+  ],
+  "author": "huanyindeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blogbywd/back-end/issues"
+  },
+  "homepage": "https://github.com/blogbywd/back-end#readme"
+}
