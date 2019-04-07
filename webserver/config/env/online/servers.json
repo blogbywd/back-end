@@ -1,0 +1,20 @@
+[
+    {
+        "id": "webserver-1",
+        "host": "123.56.27.212",
+        "httpPort": 8000,
+        "httpsPort": 9000
+    },
+    {
+        "id": "webserver-2",
+        "host": "123.56.27.212",
+        "httpPort": 8001,
+        "httpsPort": 9001
+    },
+    {
+        "id": "webserver-3",
+        "host": "123.56.27.212",
+        "httpPort": 8002,
+        "httpsPort": 9002
+    }
+]

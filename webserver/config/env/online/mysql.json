@@ -1,0 +1,10 @@
+[
+    {
+        "id":"mysql-1",
+        "host":"123.56.27.212",
+        "port":3306,
+        "database":"blog",
+        "user":"root",
+        "password":""
+    }
+]

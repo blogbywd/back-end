@@ -5,6 +5,6 @@
         "port": 3306,
         "database": "blog",
         "user": "root",
-        "pwd": "yin0828jiayou"
+        "password": "yin0828jiayou"
     }
 ]
